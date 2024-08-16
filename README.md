@@ -45,7 +45,7 @@ This Django application handles the logic for sending product surveys to custome
 3. **Install Dependencies**
 
     ```bash
-    cd .\product_survey\product_survey\
+    cd .\product_survey\
     pip install -r requirements.txt
     ```
 
